@@ -19,7 +19,7 @@ This Update adds 4 new options:
 
 ![image](https://github.com/user-attachments/assets/fea24939-eade-4df7-8c76-1cf43535cc2a)
 
-I had to remove the "view all services" option
+I had to remove the "List all services" option
 
 Explanation of the Menu Options:
 1. Add a password: Lets you add a password to a specific category. If "generate" is entered for the password it will prompt you to create one with a specified length and symbol inclusion.
