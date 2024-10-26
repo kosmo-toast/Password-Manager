@@ -6,5 +6,9 @@ To use it you have to open the "password manager.py" file in code.visualstudio.h
 You can also retrive a password, list all services, and you can exit.
 All the passwords are accessable in Visual Studio Code or in the folder where the "password manager.py" file is in.
 
+Here are the example pictures ![image](https://github.com/user-attachments/assets/cede6d96-9dad-40bf-82e8-eedad39f2ee8) ![image](https://github.com/user-attachments/assets/eedbfd44-b956-4861-a84e-32e32ae393ce) ![image](https://github.com/user-attachments/assets/fcded81d-35e2-4088-9792-d6c82b113ed3)
+ 
+
+
 I hope you like my project :)
 -komso-toast
