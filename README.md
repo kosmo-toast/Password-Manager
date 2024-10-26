@@ -33,6 +33,7 @@ Explanation of the Menu Options:
 (You can still install the old version)
 
 any bugs or mistakes? contact me via. github!
+
 I hope you like it :)
 
 -komso-toast
