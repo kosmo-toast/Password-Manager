@@ -11,6 +11,6 @@ Here are the example pictures ![image](https://github.com/user-attachments/asset
  
 
 
-I hope you like my project :)
+I hope you like it :)
 
 -komso-toast
