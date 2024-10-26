@@ -30,6 +30,8 @@ Explanation of the Menu Options:
 6. Check password strength: Evaluates the strength of an entered password and provides improvement suggestions.
 7. Exit: Ends the program
 
+Im going to add an better password strength checker in the future!
+
 (You can still install the old version)
 
 any bugs or mistakes? add an issue!
