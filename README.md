@@ -10,7 +10,27 @@ I will maybe improve it in the future
 
 Here are some example pictures ![image](https://github.com/user-attachments/assets/918c4258-e1a0-46e3-bf94-d9c08d47f65c)
  ![image](https://github.com/user-attachments/assets/eedbfd44-b956-4861-a84e-32e32ae393ce) ![image](https://github.com/user-attachments/assets/fcded81d-35e2-4088-9792-d6c82b113ed3)
- 
+
+
+
+ #UPDATE 1.1#
+
+This Update adds 4 new options:
+
+![image](https://github.com/user-attachments/assets/fea24939-eade-4df7-8c76-1cf43535cc2a)
+
+I had to remove the "view all services" option
+
+Explanation of the Menu Options:
+1. Add a password: Lets you add a password to a specific category. If "generate" is entered for the password it will prompt you to create one with a specified length and symbol inclusion.
+2. Retrieve a password: Allows retrieval of a password by category and service name.
+3. View passwords by category: Displays all passwords stored within a selected category.
+4. Search passwords: Searches all categories for a specified service name or keyword.
+5. Generate a new password: Generates a password with specified length and option to include symbols.
+6. Check password strength: Evaluates the strength of an entered password and provides improvement suggestions.
+7. Exit: Ends the program
+
+(You can still install the old version)
 
 
 I hope you like it :)
