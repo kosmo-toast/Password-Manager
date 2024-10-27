@@ -44,8 +44,6 @@ This was sadly the last update for this project.
 
 (The old versions will still be available)
 
-any bugs or mistakes? add an issue!
-
 I hope you like it :)
 
 -komso-toast
