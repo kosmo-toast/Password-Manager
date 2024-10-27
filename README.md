@@ -40,8 +40,6 @@ Fixed check_password_strength function: The function now correctly calculates th
 
 ![image](https://github.com/user-attachments/assets/363c67ee-0cd6-45a3-a6bb-c04e30d5a661)
 
-This was sadly the last update for this project.
-
 (The old versions will still be available)
 
 I hope you like it :)
