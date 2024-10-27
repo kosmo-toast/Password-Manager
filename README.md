@@ -34,6 +34,16 @@ Im going to add an better password strength checker in the future!
 
 (You can still install the old version)
 
+#UPDATE V.1.2#
+
+Fixed check_password_strength function: The function now correctly calculates the strength score by converting regex match results to boolean values.
+
+![image](https://github.com/user-attachments/assets/363c67ee-0cd6-45a3-a6bb-c04e30d5a661)
+
+This was sadly the last update for this project.
+
+(The old versions will still be available)
+
 any bugs or mistakes? add an issue!
 
 I hope you like it :)
