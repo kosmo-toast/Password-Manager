@@ -40,6 +40,12 @@ Fixed check_password_strength function: The function now correctly calculates th
 
 ![image](https://github.com/user-attachments/assets/363c67ee-0cd6-45a3-a6bb-c04e30d5a661)
 
+#UPDATE 1.3 BUG FIXES#
+
+So in the last update I made the password strength checker better but with that I broke the function to add an password.
+
+I fixed the bug and it works.
+
 (The old versions will still be available)
 
 I hope you like it :)
