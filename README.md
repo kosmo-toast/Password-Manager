@@ -54,7 +54,7 @@ I would recomend not to download version 1.2 due to a huge bug!
 
 (The old versions will still be available)
 
-Cheack out my friend @Koh0
+Cheack out my friend @K0hu
 
 I hope you like it :)
 
