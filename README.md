@@ -46,7 +46,15 @@ So in the last update I made the password strength checker better but with that 
 
 I fixed the bug and it works.
 
+There will sadly not be any new updates comming in the future.
+
+Im looking forward in making new projects in the future!
+
+I would recomend not to download version 1.2 due to a huge bug!
+
 (The old versions will still be available)
+
+Cheack out my friend @Koh0
 
 I hope you like it :)
 
